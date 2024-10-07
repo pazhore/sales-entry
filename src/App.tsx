@@ -1,11 +1,9 @@
-import './App.css'
+import Master from './components/masterComponent/Master'
 
 function App() {
-
-
   return (
     <>
-      app
+  <Master/>
     </>
   )
 }
